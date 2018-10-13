@@ -3,9 +3,9 @@
 one:
   ticker: MyString
   name: MyString
-  last_price: 9.99
+  latest_price: 9.99
 
 two:
   ticker: MyString
   name: MyString
-  last_price: 9.99
+  latest_price: 9.99
